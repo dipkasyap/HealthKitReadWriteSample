@@ -1,2 +1,2 @@
 # HealthKi Read/Write Sample app
-https://github.com/dipkasyap/HealthKitReadWriteSample/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-06-11%20at%2015.57.21.png
+Simulator Screen Shot - iPhone 11 Pro - 2020-06-11 at 15.57.21.png
